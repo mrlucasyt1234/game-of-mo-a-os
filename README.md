@@ -1,2 +1,2 @@
-# game-of-mo-a-os
+# game-of-mrlucas
 moñaños
